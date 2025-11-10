@@ -7,15 +7,15 @@ The Gold Standard for Toxicity and Incivility Project asked coders to assign eac
 
 To preserve comparability while enriching analytical value, we extend the scheme using a two-layer ontology:
 
--	First layer (presence). The binary TOXIC/NONTOXIC label is re-evaluated, with greater stringency on intercoder agreement.
--	Second layer (facet). If a message is toxic, coders specify which sub-types apply: identity attack, insult, profanity or threat. Multiple facets may be assigned where appropriate.
+-	**First layer (presence).** The binary TOXIC/NONTOXIC label is re-evaluated, with greater stringency on intercoder agreement.
+-	**Second layer (facet).** If a message is toxic, coders specify which sub-types apply: identity attack, insult, profanity or threat. Multiple facets may be assigned where appropriate.
 
 Perspective API definitions:
 
--	Identity attack. Negative or hateful comments targeting someone because of their identity.
--	Insult. 	Insulting, inflammatory, or negative comment towards a person or a group of people.
--	Profanity. Swear words, curse words, or other obscene or profane language.
--	Threat. Describes an intention to inflict pain, injury, or violence against an individual or group.
+-	**Identity attack.** Negative or hateful comments targeting someone because of their identity.
+-	**Insult.**	Insulting, inflammatory, or negative comment towards a person or a group of people.
+-	**Profanity.** Swear words, curse words, or other obscene or profane language.
+-	**Threat.** Describes an intention to inflict pain, injury, or violence against an individual or group.
 
 ## Annotation Task
 

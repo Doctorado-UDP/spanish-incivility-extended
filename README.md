@@ -1,5 +1,7 @@
 # spanish-incivility-extended
-Digital Incivility in Spanish
+**Digital Incivility in Spanish**
+
+[![Coverage](https://raw.githubusercontent.com/Doctorado-UDP/spanish-inicivility-extended/main/badges/coverage_01.svg)](https://github.com/training-datalab/gold-standard-toxicity/tree/main/data/raw) [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://raw.githubusercontent.com/Doctorado-UDP/spanish-inicivility-extended/master/badges/active.svg)](STATUS.md) [![License](https://raw.githubusercontent.com/Doctorado-UDP/spanish-inicivility-extended/main/badges/gnu.svg)](LICENSE-GPL.md) [![License](https://raw.githubusercontent.com/Doctorado-UDP/spanish-inicivility-extended/main/badges/cc_by_4_0.svg)](LICENSE-CC.md)
 
 ## Overview
 
@@ -37,8 +39,21 @@ We aim for 85-90% 3/3 agreement on the first layer (TOXIC/NONTOXIC) across the f
 
 Annotators will be native Spanish speakers enrolled in “Introduction to Machine Learning, Language Models and AI in Social Sciences.” Considering cohort size and a 15-30% relabel overhead, about 750 accepted labels (typically requiring more than 1,000 attempts) per student are expected during the annotation period. Incentives are tied to **accepted labels**, which involve agreement and, therefore, reflect quality as well as throughput.
 
+## Authors
+
+Bastián González-Bustamante \
+bastian.gonzález.b@mail.udp.cl \
+[ORCID iD 0000-0003-1510-6820](https://orcid.org/0000-0003-1510-6820) \
+https://bgonzalezbustamante.com
+
 ## CRediT - Contributor Roles Taxonomy
 
 We use CRediT (Contributes Roles Taxonomy), which includes 14 roles representing tasks typically performed by contributors to scholarly output, describing each contributor’s specific contribution.
 
 Co-authorship will be awarded to students who achieve more than **1,000 accepted labels** during the annotation period.
+
+## CRediT - Contributor Roles Taxonomy
+
+Bastián González-Bustamante ([ORCID iD 0000-0003-1510-6820](https://orcid.org/0000-0003-1510-6820)): Conceptualisation, data curation, formal analysis, funding acquisition, investigation, methodology, project administration, resources, software, supervision, and validation.
+
+Javier Fernández ([ORCID iD 0000-0002-1660-3944](https://orcid.org/0000-0002-1660-3944)): Investigation and resources.

@@ -13,7 +13,7 @@ To preserve comparability while enriching analytical value, we extend the scheme
 Perspective API definitions:
 
 -	**Identity attack.** Negative or hateful comments targeting someone because of their identity.
--	**Insult.**	Insulting, inflammatory, or negative comment towards a person or a group of people.
+-	**Insult.**	Insulting, inflammatory, or negative comments towards a person or a group of people.
 -	**Profanity.** Swear words, curse words, or other obscene or profane language.
 -	**Threat.** Describes an intention to inflict pain, injury, or violence against an individual or group.
 
@@ -35,10 +35,10 @@ We aim for 85-90% 3/3 agreement on the first layer (TOXIC/NONTOXIC) across the f
 
 ## Participants 
 
-Annotators will be native Spanish speakers enrolled in “Introduction to Machine Learning, Language Models and AI in Social Sciences.” Considering cohort size and a 15-30% relabel overhead, about 750 accepted labels (typically requiring more than 1,000 attempts) per student are expected during the annotation period. Incentives are tied to accepted labels, which involve agreement and, therefore, reflect quality as well as throughput.
+Annotators will be native Spanish speakers enrolled in “Introduction to Machine Learning, Language Models and AI in Social Sciences.” Considering cohort size and a 15-30% relabel overhead, about 750 accepted labels (typically requiring more than 1,000 attempts) per student are expected during the annotation period. Incentives are tied to **accepted labels**, which involve agreement and, therefore, reflect quality as well as throughput.
 
 ## CRediT - Contributor Roles Taxonomy
 
 We use CRediT (Contributes Roles Taxonomy), which includes 14 roles representing tasks typically performed by contributors to scholarly output, describing each contributor’s specific contribution.
 
-Co-authorship will be awarded to students who achieve more than 1,000 accepted labels during the annotation period.
+Co-authorship will be awarded to students who achieve more than **1,000 accepted labels** during the annotation period.

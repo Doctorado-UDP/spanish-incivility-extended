@@ -1,7 +1,7 @@
 # spanish-incivility-extended
 **Digital Incivility in Spanish**
 
-[![Coverage](https://raw.githubusercontent.com/Doctorado-UDP/spanish-inicivility-extended/main/badges/coverage_01.svg)](https://github.com/Doctorado-UDP/spanish-inicivility-extended/tree/main/data/raw) [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://raw.githubusercontent.com/Doctorado-UDP/spanish-inicivility-extended/master/badges/active.svg)](STATUS.md) [![License](https://raw.githubusercontent.com/Doctorado-UDP/spanish-inicivility-extended/main/badges/gnu.svg)](LICENSE-GPL.md) [![License](https://raw.githubusercontent.com/Doctorado-UDP/spanish-inicivility-extended/main/badges/cc_by_4_0.svg)](LICENSE-CC.md)
+[![Coverage](https://raw.githubusercontent.com/Doctorado-UDP/spanish-inicivility-extended/5585b763eab74a998fd1d62cc886ea86f12c0557/badges/coverage_01.svg)](https://github.com/Doctorado-UDP/spanish-inicivility-extended/tree/main/data/raw) [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://raw.githubusercontent.com/Doctorado-UDP/spanish-inicivility-extended/5585b763eab74a998fd1d62cc886ea86f12c0557/badges/active.svg)](STATUS.md) [![License](https://raw.githubusercontent.com/Doctorado-UDP/spanish-inicivility-extended/5585b763eab74a998fd1d62cc886ea86f12c0557/badges/gnu.svg)](LICENSE-GPL.md) [![License](https://raw.githubusercontent.com/Doctorado-UDP/spanish-inicivility-extended/main/badges/cc_by_4_0.svg)](LICENSE-CC.md)
 
 ## Overview
 

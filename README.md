@@ -1,7 +1,7 @@
 # spanish-incivility-extended
 **Digital Incivility in Spanish**
 
-[![Coverage](https://raw.githubusercontent.com/Doctorado-UDP/spanish-inicivility-extended/main/badges/coverage_01.svg)](https://github.com/training-datalab/gold-standard-toxicity/tree/main/data/raw) [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://raw.githubusercontent.com/Doctorado-UDP/spanish-inicivility-extended/master/badges/active.svg)](STATUS.md) [![License](https://raw.githubusercontent.com/Doctorado-UDP/spanish-inicivility-extended/main/badges/gnu.svg)](LICENSE-GPL.md) [![License](https://raw.githubusercontent.com/Doctorado-UDP/spanish-inicivility-extended/main/badges/cc_by_4_0.svg)](LICENSE-CC.md)
+[![Coverage](https://raw.githubusercontent.com/Doctorado-UDP/spanish-incivility-extended/refs/heads/main/badges/coverage_01.svg)](https://github.com/Doctorado-UDP/spanish-inicivility-extended/tree/main/data/raw) [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://raw.githubusercontent.com/Doctorado-UDP/spanish-incivility-extended/refs/heads/main/badges/active.svg)](STATUS.md) [![License](https://raw.githubusercontent.com/Doctorado-UDP/spanish-incivility-extended/refs/heads/main/badges/gnu.svg)](LICENSE-GPL.md) [![License](https://raw.githubusercontent.com/Doctorado-UDP/spanish-incivility-extended/refs/heads/main/badges/cc_by_4_0.svg)](LICENSE-CC.md)
 
 ## Overview
 
@@ -42,7 +42,7 @@ Annotators will be native Spanish speakers enrolled in “Introduction to Machin
 ## Authors
 
 Bastián González-Bustamante \
-bastian.gonzález.b@mail.udp.cl \
+bastian.gonzalez.b@mail.udp.cl \
 [ORCID iD 0000-0003-1510-6820](https://orcid.org/0000-0003-1510-6820) \
 https://bgonzalezbustamante.com
 

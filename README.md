@@ -57,3 +57,5 @@ Co-authorship will be awarded to students who achieve more than **1,000 accepted
 Bastián González-Bustamante ([ORCID iD 0000-0003-1510-6820](https://orcid.org/0000-0003-1510-6820)): Conceptualisation, data curation, formal analysis, funding acquisition, investigation, methodology, project administration, resources, software, supervision, and validation.
 
 Javier Fernández ([ORCID iD 0000-0002-1660-3944](https://orcid.org/0000-0002-1660-3944)): Investigation and resources.
+
+Eduardo Corvalán: Investigation and resources.
